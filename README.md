@@ -1,0 +1,3 @@
+- 😎 Hi, I’m Gabriel Correia
+- 👀 I’m interested in Desktop apps development
+- 🌱 I’m currently learning math and C/C++ Programming
