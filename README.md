@@ -5,7 +5,7 @@ I recently start to program and learning complex things (this is more hard that 
 More about me:
 - 🧠 Focused every day (I like math, but I dont know so much... 🥲)
 - 🥚 18 y.o.
-- 🇧🇷 Native language (Portuguese Brazil)
+- 🇧🇷 Native language (Brazilian Portuguese)
 - 🇺🇸 My second language (I still learning yet...)
 - 👀 I’m interested in Desktop apps development
 - 🌱 I’m currently learning math and C/C++ Programming
