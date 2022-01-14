@@ -1,0 +1,24 @@
+name: Profile actions (Generate animation)
+
+on:
+	schedule:
+	 - cron: "0 18 * * *"
+	
+	workflow_dispatch:
+
+	push:
+		branches:
+		- main
+jobs:
+	generate:
+		runs-on: ubuntu-latest
+		timeout-minutes: 10
+	steps:
+		- name: Generate Grid
+		- uses: Platane/snk@master
+  		 with:
+    		github_user_name: ${{ github.repository_owner }}
+    		gif_out_path: dist/github-snake.gif
+    		svg_out_path: dist/github-snake.sv
+
+
