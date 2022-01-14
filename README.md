@@ -10,15 +10,15 @@ More about me:
 - 👀 I’m interested in Desktop apps development
 - 🌱 I’m currently learning math and C/C++ Programming
 - 🐍 Libertarian (Freedom and liberty for all)
-- 🐧 Linux user (Actually Arch Linux with GNOME DE/Sway WM [WAYLAND])
+- 🐧 Linux user (Actually Arch Linux with GNOME DE & Sway WM)
 
 > Preferable tool kits and languages:
 
 <div>
-  <a ><img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white><a/>
-  <a ><img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white></a>
-  <a ><img src=https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324><a/>
-  <a ><img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white><a/>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white></a>
+  <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank"><img src=https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324><a/>
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black></a>
 </div>
 
 > Social Networks:
