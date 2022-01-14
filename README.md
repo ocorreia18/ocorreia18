@@ -29,9 +29,9 @@ More about me:
 
 > This profile display idea has been COPIED from the user FallAngel1337 (Thanks you're awesome)
 
-[![Top Langs used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=bellcorreia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=bellcorreia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bellcorreia&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bellcorreia&theme=default&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 > Look at this snake eating my daily work report 😆:
 
