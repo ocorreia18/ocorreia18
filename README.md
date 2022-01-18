@@ -12,11 +12,11 @@ More about me:
 - 🐍 Libertarian (Freedom and liberty for all)
 - 🐧 Linux user (Actually Arch Linux with GNOME DE & Sway WM)
 
-> Profile Details
+Profile Details
 
-![](https://komarev.com/ghpvc/?username=bellcorreia&color=red)
+![](https://komarev.com/ghpvc/?username=bellcorreia&color=blue&style=flat-square)
 
-> Preferable tool kits and languages:
+Preferable tool kits and languages:
 
 <div>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white><a/>
@@ -25,7 +25,7 @@ More about me:
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black></a>
 </div>
 
-> Social Networks:
+Social Networks:
 
 <div> 
   <a href="https://www.instagram.com/correiaofficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
