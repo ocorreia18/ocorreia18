@@ -12,6 +12,10 @@ More about me:
 - 🐍 Libertarian (Freedom and liberty for all)
 - 🐧 Linux user (Actually Arch Linux with GNOME DE & Sway WM)
 
+> Profile Details
+
+![](https://komarev.com/ghpvc/?username=bellcorreia&color=red)
+
 > Preferable tool kits and languages:
 
 <div>
