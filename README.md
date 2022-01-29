@@ -9,7 +9,6 @@ More about me:
 - 🇺🇸 My second language (I still learning yet...)
 - 👀 I’m interested in Desktop apps development
 - 🌱 I’m currently learning math and C/C++ Programming
-- 🐍 Libertarian (Freedom and liberty for all)
 - 🐧 Linux user (Actually Arch Linux with GNOME DE & Sway WM)
 
 Profile Details
@@ -33,9 +32,9 @@ Social Networks:
 
 > This profile display idea has been inspired from the user FallAngel1337 (Thanks you're awesome)
 
-[![Top Langs used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=bellcorreia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=bellcorreia&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bellcorreia&theme=default&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bellcorreia&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 > Look at this snake eating my daily work report 😆:
 
