@@ -9,7 +9,7 @@ More about me:
 - 🇺🇸 My second language (I still learning yet...)
 - 👀 I’m interested in Desktop apps development
 - 🌱 I’m currently learning math and C/C++ Programming
-- 🐧 Linux user (Actually Fedora with GNOME DE)
+- 🐧 Linux user (Actually Arch Linux w. KDE Plasma 5)
 
 Profile Details
 
@@ -30,11 +30,11 @@ Social Networks:
   <a href="https://www.instagram.com/correiaofficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-> This profile display idea has been inspired from the user FallAngel1337 (Thanks you're awesome)
+> This profile display idea has been inspired from the user FallAngel1337 (Thanks! you're awesome)
 
-[![Top Langs used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=bellcorreia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=bellcorreia&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bellcorreia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bellcorreia&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 > Look at this snake eating my daily work report 😆:
 
