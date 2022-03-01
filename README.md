@@ -1,4 +1,4 @@
-Hi, I’m Gabriel Correia 🤙
+Hi, I’m Gabriel Correia! 🥇
 
 I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer)
 
@@ -7,7 +7,7 @@ More about me:
 - 🥚 18 y.o.
 - 🇧🇷 Native language (Brazilian Portuguese)
 - 🇺🇸 My second language (I still learning yet...)
-- 👀 I’m interested in Desktop apps development
+- 👀 I’m interested in Emulators; Reverse engineering; Hacking; Graphics
 - 🌱 I’m currently learning math and C/C++ Programming
 - 🐧 Linux user (Actually Arch Linux w. KDE Plasma 5)
 
