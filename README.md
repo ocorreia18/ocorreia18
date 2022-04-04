@@ -3,7 +3,7 @@ Hi, I’m Gabriel Correia! 🥇
 I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer)
 
 More about me:
-- 🧠 Focused every day (I like math, but I dont know so much... 🥲)
+- 🧠 Focused every day (I like math, but I don't know so much... 🥲)
 - 🥚 18 y.o.
 - 🇧🇷 Native language (Brazilian Portuguese)
 - 🇺🇸 My second language (I still learning yet...)
@@ -13,7 +13,7 @@ More about me:
 
 Profile Details
 
-![](https://komarev.com/ghpvc/?username=bellcorreia&color=blue&style=flat-square)
+![ ](https://komarev.com/ghpvc/?username=ocorreia18&color=blue&style=flat-square)
 
 Preferable tool kits and languages:
 
@@ -27,15 +27,15 @@ Preferable tool kits and languages:
 Social Networks:
 
 <div> 
-  <a href="https://www.instagram.com/correiaofficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ocorreia18/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 > This profile display idea has been inspired from the user FallAngel1337 (Thanks! you're awesome)
 
-[![Top Langs used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=bellcorreia&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=ocorreia18&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bellcorreia&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ocorreia18&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
-> Look at this snake eating my daily work report 😆:
+> Look at this snake eating my work report 😆:
 
-![Snake](https://raw.githubusercontent.com/bellcorreia/bellcorreia/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/ocorreia18/ocorreia18/output/github-contribution-grid-snake.svg)
