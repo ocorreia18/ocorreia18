@@ -16,11 +16,11 @@ More about me:
 - Linux user (Actually Parrot OS / Windows 11 / Manjaro)
 
 Social Networks:
-<div >
+<div>
 <a href="https://www.instagram.com/ocorreia18">
   <img src="assets/Instagram.svg" height="50px">
 </a>
-<a style="margin-left: 5px" href="https://twitter.com/ocorreia18">
+<a href="https://twitter.com/ocorreia18">
   <img src="assets/Twitter.svg" height="50px">
 </a>
 </div>
