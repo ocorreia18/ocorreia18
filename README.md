@@ -1,41 +1,41 @@
-Hi, I’m Gabriel Correia! 🥇
+```rust
+fn main()
+{
+  println!("Hi, I'm Gabriel Correia! 🥇");
+}
+```
 
-I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer)
+I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer 😎
 
 More about me:
-- 🧠 Focused every day (I like math, but I don't know so much... 🥲)
-- 🥚 18 y.o.
-- 🇧🇷 Native language (Brazilian Portuguese)
-- 🇺🇸 My second language (I still learning yet...)
-- 👀 I’m interested in Emulators; Reverse engineering; Hacking; Graphics
-- 🌱 I’m currently learning math and C/C++ Programming
-- 🐧 Linux user (Actually Arch Linux w. KDE Plasma 5)
-
-Profile Details
-
-![ ](https://komarev.com/ghpvc/?username=ocorreia18&color=blue&style=flat-square)
-
-Preferable tool kits and languages:
-
-<div>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white><a/>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white></a>
-  <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank"><img src=https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324><a/>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black></a>
-</div>
+- Focused every day (I like math also, but I don't know so much... 🥲)
+- 18 y.o.
+- Native language (Brazilian Portuguese)
+- My second language (I still learning yet...)
+- I’m interested in Emulators; Reverse engineering; Hacking; Graphics and others
+- Linux user (Actually Parrot OS / Windows 11 / Manjaro)
 
 Social Networks:
-
-<div> 
-  <a href="https://www.instagram.com/ocorreia18/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div >
+<a href="https://www.instagram.com/ocorreia18">
+  <img src="assets/Instagram.svg" height="50px">
+</a>
+<a style="margin-left: 5px" href="https://twitter.com/ocorreia18">
+  <img src="assets/Twitter.svg" height="50px">
+</a>
 </div>
 
-> This profile display idea has been inspired from the user FallAngel1337 (Thanks! you're awesome)
+<div >
+<img style="margin-right: 10px" height="250px" alt="Some fishes at lake" src=assets/img.gif align="left" >
 
-[![Top Langs used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=ocorreia18&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ocorreia18&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-
-> Look at this snake eating my work report 😆:
-
-![Snake](https://raw.githubusercontent.com/ocorreia18/ocorreia18/output/github-contribution-grid-snake.svg)
+~~~diff
+[correia@dev ~]$ aboutme
+@@Hi, I'm open for talk about programming and computers related things@@
+# Making something new every day
++ Learn new things everyday
++ Be strong and productive
+- Don't waste time
+- Don't give up
+! Make the difference!
+~~~
+</div>
