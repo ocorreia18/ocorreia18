@@ -8,12 +8,12 @@ fn main()
 I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer 😎
 
 More about me:
-- Focused every day (I like math also, but I don't know so much... 🥲)
-- 18 y.o.
-- Native language (Brazilian Portuguese)
-- My second language (I still learning yet...)
-- I’m interested in Emulators; Reverse engineering; Hacking; Graphics and others
-- Linux user (Actually Parrot OS / Windows 11 / Manjaro)
+- 🧮 Focused every day (I like math also, but I don't know so much... 🥲)
+- 🥚 18 y.o.
+- 🇧🇷 Native language (Brazilian Portuguese)
+- 🇺🇸 My second language (English: I still learning yet...)
+- 🌱 I’m interested in Emulators; Reverse engineering; Hacking; Graphics and others
+- 🐧 Linux user (Actually Parrot OS / Windows 11 / Manjaro)
 
 Social Networks:
 <div>
