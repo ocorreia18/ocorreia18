@@ -1,9 +1,9 @@
-```rust
+~~~rust
 fn main()
 {
   println!("Hi, I'm Gabriel Correia! 🥇");
 }
-```
+~~~
 
 I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer 😎
 
@@ -25,9 +25,6 @@ Social Networks:
 </a>
 </div>
 
-<div >
-<img style="margin-right: 10px" height="250px" alt="Some fishes at lake" src=assets/img.gif align="left" >
-
 ~~~diff
 [correia@dev ~]$ aboutme
 @@Hi, I'm open for talk about programming and computers related things@@
@@ -38,4 +35,3 @@ Social Networks:
 - Don't give up
 ! Make the difference!
 ~~~
-</div>
