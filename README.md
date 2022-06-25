@@ -13,7 +13,8 @@ More about me:
 - 🇧🇷 Native language (Brazilian Portuguese)
 - 🇺🇸 My second language (English: I still learning yet...)
 - 🌱 I’m interested in Emulators; Reverse engineering; Hacking; Graphics and others
-- 🐧 Linux user (Actually Parrot OS / Windows 11 / Manjaro)
+- 🐧 Linux user (Actually Parrot OS / Manjaro)
+- 🪟 Windows user (Windows 11)
 
 Social Networks:
 <div>
