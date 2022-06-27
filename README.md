@@ -1,14 +1,14 @@
 ~~~rust
 fn main()
 {
-  println!("Hi, I'm Gabriel Correia! 🥇");
+    println!("Hi, I'm Gabriel Correia! 🥇");
 }
 ~~~
 
-I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer 😎
+I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer!
 
 More about me:
-- 🧮 Focused every day (I like math also, but I don't know so much... 🥲)
+- 🧮 Focused every day (I also like math, but I don't know so much... 🥲)
 - 🥚 18 y.o.
 - 🇧🇷 Native language (Brazilian Portuguese)
 - 🇺🇸 My second language (English: I still learning yet...)
