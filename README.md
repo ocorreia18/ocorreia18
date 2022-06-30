@@ -19,13 +19,13 @@ More about me:
 Social Networks:
 <div>
 <a href="https://www.instagram.com/ocorreia18">
-  <img src="assets/Instagram.svg" height="50px">
+  <img src="https://www.svgrepo.com/show/205290/instagram.svg" height="50px">
 </a>
 <a href="https://twitter.com/ocorreia18">
-  <img src="assets/Twitter.svg" height="50px">
+  <img src="https://www.svgrepo.com/show/76332/twitter.svg" height="50px">
 </a>
 <a href="https://discord.com/invite/MFQC38mDyV">
-  <img src="assets/Discord.svg" height="50px">
+  <img src="https://www.svgrepo.com/show/271181/discord.svg" height="50px">
 </div>
 
 ~~~diff
