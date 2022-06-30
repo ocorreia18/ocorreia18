@@ -25,7 +25,7 @@ Social Networks:
   <img src="assets/Twitter.svg" height="50px">
 </a>
 <a href="https://discord.com/invite/MFQC38mDyV">
-  <img src="assets/Discord.svg" height="50px">
+  <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="50px">
 </div>
 
 ~~~diff
