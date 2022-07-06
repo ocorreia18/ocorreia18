@@ -7,16 +7,23 @@ fn main()
 
 I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer!
 
-More about me:
+### More about me
+
 - 🧮 Focused every day (I also like math, but I don't know so much... 🥲)
-- 🥚 18 y.o.
+- 🥚 19 y.o.
 - 🇧🇷 Native language (Brazilian Portuguese)
 - 🇺🇸 My second language (English: I still learning yet...)
 - 🌱 I’m interested in Emulators; Reverse engineering; Hacking; Graphics and others
-- 🐧 Linux user (Actually Parrot OS / Manjaro)
+- 💻 My setup: Ryzen 5 3500U + Vega 8 (Laptop S145)
+- 🐧 Linux user (Actually Kali Linux / Manjaro)
 - 🪟 Windows user (Windows 11)
 
-Social Networks:
+### CPU configuration
+
+<img src="assets/laptopcpu.png">
+
+### Social Networks
+
 <div>
 <a href="https://www.instagram.com/ocorreia18">
   <img src="assets/Instagram.svg" height="50px">
@@ -26,6 +33,7 @@ Social Networks:
 </a>
 <a href="https://discord.com/invite/MFQC38mDyV">
   <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="50px">
+</a>
 </div>
 
 ~~~diff
