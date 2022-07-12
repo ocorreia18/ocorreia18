@@ -1,13 +1,8 @@
-~~~rust
-fn main()
-{
-    println!("Hi, I'm Gabriel Correia! 🥇");
-}
-~~~
+# Hello There!
 
 I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer!
 
-### More about me
+## More about me
 
 - 🧮 Focused every day (I also like math, but I don't know so much... 🥲)
 - 🥚 19 y.o.
@@ -18,7 +13,7 @@ I recently start to program and learning complex things (this is more hard that 
 - 🐧 Linux user (Actually Kali Linux / Manjaro)
 - 🪟 Windows user (Windows 11)
 
-### CPU configuration
+### CPU configuration (cpufetch)
 
 <img src="assets/laptopcpu.png">
 
@@ -36,13 +31,32 @@ I recently start to program and learning complex things (this is more hard that 
 </a>
 </div>
 
-~~~diff
-[correia@dev ~]$ aboutme
-@@Hi, I'm open for talk about programming and computers related things@@
-# Making something new every day
-+ Learn new things everyday
-+ Be strong and productive
-- Don't waste time
-- Don't give up
-! Make the difference!
+## Miscs
+
+**Bytes are bytes, and a lot of bits too!**
+
+~~~bash
+cat main.c
+~~~
+~~~c
+#include <stdio.h>
+typedef unsigned char U8;
+int main()
+{
+  _Alignas(16) U8 welcome_array[] = {
+    0x48, 0x65, 0x6c, 0x6c, 0x6f, 0x20, 0x74, 
+    0x68, 0x65, 0x72, 0x65, 0x21, 0x20, 0x49, 
+    0x27, 0x6d, 0x20, 0x47, 0x61, 0x62, 0x72, 
+    0x69, 0x65, 0x6c, 0x20, 0x43, 0x6f, 0x72,
+    0x72, 0x65, 0x69, 0x61, 0x21, 0x0a, 0x00
+  };
+
+  printf("%s", (char*)welcome_array);
+}
+~~~
+~~~bash
+make main
+./main
+Hello there! I'm Gabriel Correia!
+
 ~~~
