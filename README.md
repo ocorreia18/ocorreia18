@@ -15,7 +15,7 @@ I recently start to program and learning complex things (this is more hard that 
 
 ### CPU configuration (cpufetch)
 
-<img src="assets/laptopcpu.png">
+<img src="assets/cpuconf.png">
 
 ### Social Networks
 
