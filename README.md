@@ -2,34 +2,32 @@
 
 I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer!
 
-## More about me
+## More About Me
 
-- 🧮 Focused every day (I also like math, but I don't know so much... 🥲)
+- 🧮 Focused Every Day (I also like math, but I don't know so much... 🥲)
 - 🥚 19 y.o.
-- 🇧🇷 Native language (Brazilian Portuguese)
-- 🇺🇸 My second language (English: I still learning yet...)
-- 🌱 I’m interested in Emulators; Reverse engineering; Hacking; Graphics and others
-- 💻 My setup: Ryzen 5 3500U + Vega 8 (Laptop S145)
-- 🐧 Linux user (Actually Kali Linux / Manjaro)
-- 🪟 Windows user (Windows 11)
+- 🇧🇷 Native Language (Brazilian Portuguese)
+- 🇺🇸 My Second Language (English: I still learning yet...)
+- 🌱 I’m Interested in Emulators; Reverse engineering; Hacking; Graphics and others
+- 💻 My Laptop: Ryzen 5 3500U + Vega 8 (S145)
+- 🐧 Linux User: Kali Linux 2022 & Manjaro
+- 🪟 Windows User: 11 Edition Home
 
-### CPU configuration (cpufetch)
+### CPU Configuration (cpufetch)
 
-<img src="assets/cpuconf.png">
+<img src="assets/cpuconf_glitch.jpg">
 
 ### Social Networks
 
-<div>
 <a href="https://www.instagram.com/ocorreia18">
-  <img src="assets/Instagram.svg" height="50px">
+  <img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-512.png" height="55px">
 </a>
 <a href="https://twitter.com/ocorreia18">
-  <img src="assets/Twitter.svg" height="50px">
+  <img src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-09-512.png" height="55px">
 </a>
 <a href="https://discord.com/invite/MFQC38mDyV">
-  <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="50px">
+  <img src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-512.png" height="55px">
 </a>
-</div>
 
 ## Miscs
 
@@ -40,23 +38,22 @@ cat main.c
 ~~~
 ~~~c
 #include <stdio.h>
-typedef unsigned char U8;
+typedef unsigned short U16;
 int main()
 {
-  _Alignas(16) U8 welcome_array[] = {
-    0x48, 0x65, 0x6c, 0x6c, 0x6f, 0x20, 0x74, 
-    0x68, 0x65, 0x72, 0x65, 0x21, 0x20, 0x49, 
-    0x27, 0x6d, 0x20, 0x47, 0x61, 0x62, 0x72, 
-    0x69, 0x65, 0x6c, 0x20, 0x43, 0x6f, 0x72,
-    0x72, 0x65, 0x69, 0x61, 0x21, 0x0a, 0x00
+  _Alignas(8) U16 message_array[] = {
+    0x654b, 0x7065, 0x6920, 0x2074, 0x6f43, 
+    0x706d, 0x656c, 0x2c78, 0x5320, 0x7574,
+    0x6970, 0x2164, 0x2d20, 0x6220, 0x2079,
+    0x6147, 0x7262, 0x6569, 0x206c, 0x6f43,
+    0x7272, 0x6965, 0x2161, 0x000a
   };
-
-  printf("%s", (char*)welcome_array);
+  printf("%s", (char*)message_array);
 }
 ~~~
 ~~~bash
 make main
 ./main
-Hello there! I'm Gabriel Correia!
+Keep it Complex, Stupid! - by Gabriel Correia!
 
 ~~~
