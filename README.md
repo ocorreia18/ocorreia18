@@ -19,8 +19,9 @@ I recently start to program and learning complex things (this is more hard that 
 
 ### Social Networks
 
+<div align="middle">
 <a href="https://www.instagram.com/ocorreia18">
-  <img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-512.png" height="55px">
+  <img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-512.png" height="53px">
 </a>
 <a href="https://twitter.com/ocorreia18">
   <img src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-09-512.png" height="55px">
@@ -28,6 +29,7 @@ I recently start to program and learning complex things (this is more hard that 
 <a href="https://discord.com/invite/MFQC38mDyV">
   <img src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-512.png" height="55px">
 </a>
+</div>
 
 ## Miscs
 
