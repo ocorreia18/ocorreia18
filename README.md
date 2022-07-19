@@ -1,4 +1,4 @@
-# Hello There!
+# Hello There 👋!
 
 I recently start to program and learning complex things (this is more hard that I thought but I will NEVER give up about my desires: to be a good programmer!
 
@@ -10,7 +10,7 @@ I recently start to program and learning complex things (this is more hard that 
 - 🇺🇸 My Second Language (English: I still learning yet...)
 - 🌱 I’m Interested in Emulators; Reverse engineering; Hacking; Graphics and others
 - 💻 My Laptop: Ryzen 5 3500U + Vega 8 (S145)
-- 🐧 Linux User: Kali Linux 2022 & Manjaro
+- 🐧 Linux User: Kali Linux 2022
 - 🪟 Windows User: 11 Edition Home
 
 ### CPU Configuration (cpufetch)
