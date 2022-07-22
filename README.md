@@ -17,14 +17,14 @@ I recently start to program and learning complex things (this is more hard that 
 
 <img src="assets/cpuconf.jpg">
 
-### Social networkn
+### Social networks
 
 <div align="middle">
-<a href="https://www.instagram.com/beloncode"><img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-512.png" height="53px"></a>
-<a href="https://twitter.com/beloncode"><img src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-09-512.png" height="55px"></a>
-<a href="https://www.reddit.com/u/beloncode"><img src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-08-512.png" height="55px"></a>
+<a href="https://www.instagram.com/beloncode"><img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-512.png" height="55px"></a>
+<a href="https://twitter.com/beloncode"><img src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-09-512.png" height="60px"></a>
+<a href="https://www.reddit.com/u/beloncode"><img src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-08-512.png" height="60px"></a>
 <a href="https://discord.com/invite/7EhYHhWz
-"><img src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-512.png" height="55px"></a>
+"><img src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-512.png" height="60px"></a>
 </div>
 
 ## Miscs
